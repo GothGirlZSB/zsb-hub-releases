@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-11T00:18:54.723Z",
+  "updatedAt": "2026-11-11T15:40:13.554Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.9.1",
+      "version": "1.10.0",
       "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, and through Games blackjack, crash, dice and plinko). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
       "minCore": "1.0.6",
-      "file": "armory-1.9.1.json",
-      "sha256": "079f3b3519bf713f9faaf611bc35fcb345c7f8c7ae47b7aab72a6a5e314224d1",
-      "size": 88297
+      "file": "armory-1.10.0.json",
+      "sha256": "e3e293be105e3453069d5296b720dde7e8b5079c068a237fd1a1efb1a6dd1469",
+      "size": 97178
     },
     {
       "id": "converter",
@@ -45,12 +45,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "description": "A tool for opening cases, capsules or collections on the accounts you choose: Preview shows what it would do, Open now buys with the cash above your keep amounts (or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
-      "minCore": "1.0.6",
-      "file": "opener-1.5.0.json",
-      "sha256": "1c99e45d829ef31cd251925d6d940e72c3eacfc3efc05277121f3847093eeba6",
-      "size": 41329
+      "minCore": "1.2.3",
+      "file": "opener-1.6.0.json",
+      "sha256": "dd7b486b568437d6a91bb3749be993e7d011a28eac5454caa8e00fbc29984ab1",
+      "size": 49469
     },
     {
       "id": "pass",
