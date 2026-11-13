@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-11T15:40:13.554Z",
+  "updatedAt": "2026-11-13T14:01:50.151Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.10.0",
-      "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, and through Games blackjack, crash, dice and plinko). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
-      "minCore": "1.0.6",
-      "file": "armory-1.10.0.json",
-      "sha256": "e3e293be105e3453069d5296b720dde7e8b5079c068a237fd1a1efb1a6dd1469",
-      "size": 97178
+      "version": "1.14.4",
+      "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, blackjack, crash, dice and plinko (by the Games plugin when it is on, otherwise by the Armory itself)). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
+      "minCore": "1.2.5",
+      "file": "armory-1.14.4.json",
+      "sha256": "cccfbc3d38fe036a5fd25f889dc57594dc1624e01128cf153716e462d3de4832",
+      "size": 126673
     },
     {
       "id": "converter",
@@ -25,12 +25,12 @@
     {
       "id": "games",
       "name": "Games",
-      "version": "1.4.1",
+      "version": "1.8.0",
       "description": "Plays the games tab for its rewards: the smallest bets that reach each game's next reward tier, only when the reward is worth more than the bets are expected to lose. Tracks bets, wins, rewards and the profit. Starts in practice mode.",
-      "minCore": "1.0.6",
-      "file": "games-1.4.1.json",
-      "sha256": "cb3b1865c389bab2688fde901f63b677a77a5bc629b25b680a51d7f05a3c943a",
-      "size": 42944
+      "minCore": "1.2.5",
+      "file": "games-1.8.0.json",
+      "sha256": "40dd3fea2a7d8b50bcd867f464a6b1905a6858e4e35ca2ee88145b3861089632",
+      "size": 49788
     },
     {
       "id": "missions",
