@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-17T16:34:00.213Z",
+  "updatedAt": "2026-11-17T21:25:56.964Z",
   "plugins": [
     {
       "id": "armory",
@@ -15,12 +15,12 @@
     {
       "id": "converter",
       "name": "Converter",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "description": "Turns what accounts earn into tokens, in steps you choose: sell clicked cases, sell cheap skins, buy capsules with the cash, open them with every drop sold to tokens, upgrade the tokens into Dragon Lores. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "converter-1.7.0.json",
-      "sha256": "de812f3db5316336de25aed96be0d58a2a3e88c615aaafe7b221c4105325ac43",
-      "size": 48880
+      "file": "converter-1.7.1.json",
+      "sha256": "1efb6f1c67c167c4c725f526acba990fe1f6f35e2658a166d5e484bcd1f31d31",
+      "size": 52504
     },
     {
       "id": "effects",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.14.0",
+      "version": "1.14.1",
       "description": "A tool for opening cases, capsules or collections on the accounts you choose: Preview shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
       "minCore": "1.2.14",
-      "file": "opener-1.14.0.json",
-      "sha256": "b3bee4ec934b81d175302014b89efb455771bb0a084366b8b64bdca8fd88a406",
-      "size": 133486
+      "file": "opener-1.14.1.json",
+      "sha256": "a5459a43f1636d79111c0683a827d9d864499fd87bac285046f1f868ff67fd79",
+      "size": 136810
     },
     {
       "id": "pass",
