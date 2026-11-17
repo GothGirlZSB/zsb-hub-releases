@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-17T16:18:01.067Z",
+  "updatedAt": "2026-11-17T16:34:00.213Z",
   "plugins": [
     {
       "id": "armory",
@@ -91,6 +91,16 @@
       "file": "rewards-1.4.0.json",
       "sha256": "4f9c463c21d4deacbd118fb341327adf4779baa51c3f30bbceeb91eb7da5b659",
       "size": 9702
+    },
+    {
+      "id": "skillmaps",
+      "name": "Skillmaps",
+      "version": "3.1.0",
+      "description": "A tool for setting up accounts' skills: pick the accounts and a preset, then Apply. Each skill costs its price plus a skill point (3 a rank, 54 by Global Elite).",
+      "minCore": "1.2.14",
+      "file": "skillmaps-3.1.0.json",
+      "sha256": "08e15c978c74771064e239fc933fec56bd770b14b12d5d5648df6162d4325d6e",
+      "size": 53616
     },
     {
       "id": "skinthemes",
