@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-18T17:26:18.838Z",
+  "updatedAt": "2026-11-18T19:02:44.688Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.20.0",
+      "version": "1.20.1",
       "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, blackjack, crash, dice and plinko (by the Games plugin when it is on, otherwise by the Armory itself)). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
       "minCore": "1.2.14",
-      "file": "armory-1.20.0.json",
-      "sha256": "890dc2af439f21558efaa92328cadf7ff918f572fff6cc90ed3b9ca4293918d9",
-      "size": 166333
+      "file": "armory-1.20.1.json",
+      "sha256": "95a75401e8a3e0e79ec7f0f8b5c8f6646fc7cfa4c5987515bff126abf47b9136",
+      "size": 166617
     },
     {
       "id": "converter",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.14.4",
+      "version": "1.15.0",
       "description": "A tool for opening cases, capsules or collections on the accounts you choose: Preview shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
       "minCore": "1.2.14",
-      "file": "opener-1.14.4.json",
-      "sha256": "85304c4d7e1693a98920e6eb81b6277b79a2cf9e342b651bb7e29e0bc40cd83d",
-      "size": 144942
+      "file": "opener-1.15.0.json",
+      "sha256": "c0b125dd7acd163a73a0fbdfd2befeb7dd0ca16e579ff550bd6985d08f0a9bf0",
+      "size": 153962
     },
     {
       "id": "pass",
@@ -115,12 +115,12 @@
     {
       "id": "trader",
       "name": "Trader",
-      "version": "1.9.0",
+      "version": "1.10.0",
       "description": "Moves tokens and items between your accounts: one trade at a time, or by trade routes you set up (from which accounts, to which account, and what goes: tokens, terminals, skins over a price or by name). Both sides must be accounts in this app and clicking. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "trader-1.9.0.json",
-      "sha256": "78a618bd733d3d87f063b6dadf2075369127ff5c0465a0fb375b190d7f6ee679",
-      "size": 125253
+      "file": "trader-1.10.0.json",
+      "sha256": "bff5fd3ff1664da7c55fff73eb2512943bd39bea601eb99b96951fa31cd484f1",
+      "size": 127554
     }
   ]
 }
