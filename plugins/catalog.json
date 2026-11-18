@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-18T06:06:52.831Z",
+  "updatedAt": "2026-11-18T17:26:18.838Z",
   "plugins": [
     {
       "id": "armory",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.14.3",
+      "version": "1.14.4",
       "description": "A tool for opening cases, capsules or collections on the accounts you choose: Preview shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
       "minCore": "1.2.14",
-      "file": "opener-1.14.3.json",
-      "sha256": "25854470f2ad1cb959f8286bf845df1d1425a37df09e5d6594c47fa7952999f0",
-      "size": 141294
+      "file": "opener-1.14.4.json",
+      "sha256": "85304c4d7e1693a98920e6eb81b6277b79a2cf9e342b651bb7e29e0bc40cd83d",
+      "size": 144942
     },
     {
       "id": "pass",
