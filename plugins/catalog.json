@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-17T21:25:56.964Z",
+  "updatedAt": "2026-11-18T05:31:51.596Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, blackjack, crash, dice and plinko (by the Games plugin when it is on, otherwise by the Armory itself)). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
       "minCore": "1.2.14",
-      "file": "armory-1.19.0.json",
-      "sha256": "dc9d102134fb3a1957b3a7cac7296e1cd7821e145de375785177e1482f02ea8c",
-      "size": 138549
+      "file": "armory-1.20.0.json",
+      "sha256": "890dc2af439f21558efaa92328cadf7ff918f572fff6cc90ed3b9ca4293918d9",
+      "size": 166333
     },
     {
       "id": "converter",
