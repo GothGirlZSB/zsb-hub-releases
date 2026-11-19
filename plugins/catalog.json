@@ -1,56 +1,56 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-19T20:12:29.814Z",
+  "updatedAt": "2026-11-19T21:56:35.230Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.20.1",
+      "version": "1.21.0",
       "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, blackjack, crash, dice and plinko (by the Games plugin when it is on, otherwise by the Armory itself)). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
       "minCore": "1.2.14",
-      "file": "armory-1.20.1.json",
-      "sha256": "95a75401e8a3e0e79ec7f0f8b5c8f6646fc7cfa4c5987515bff126abf47b9136",
-      "size": 166617
+      "file": "armory-1.21.0.json",
+      "sha256": "c23330bc0cd11494b0cb522cf95d70a818d5912a8588e988700cd1e075a66ce4",
+      "size": 168353
     },
     {
       "id": "converter",
       "name": "Converter",
-      "version": "1.7.3",
+      "version": "1.8.0",
       "description": "Turns what accounts earn into tokens, in steps you choose: sell clicked cases, sell cheap skins, buy capsules with the cash, open them with every drop sold to tokens, upgrade the tokens into Dragon Lores. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "converter-1.7.3.json",
-      "sha256": "767f2807052ea65d4047d9fa6694608300855fda0fc8845c410df966e7d97020",
-      "size": 57644
+      "file": "converter-1.8.0.json",
+      "sha256": "029494bdd70246ae3bf8a3440448363e10c119a7580fcce3ba4b76eb33d448d4",
+      "size": 59400
     },
     {
       "id": "effects",
       "name": "Effects",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "Manages the site's special effects with ammo: pick effects, then buy, sell, start or queue them on all accounts at once or one account. The queue starts each effect as soon as nothing of its kind is running, and can buy it with ammo first.",
       "minCore": "1.2.14",
-      "file": "effects-1.1.0.json",
-      "sha256": "800e01560fb13228149edfe75d9b97b1851709b07b0104e0f2331bee9c84bf65",
-      "size": 32498
+      "file": "effects-1.2.0.json",
+      "sha256": "e11b6e1e766f7a86bee67a4b29c099d75809dcd4b83f04a2fbffb6fe74d7c34e",
+      "size": 32602
     },
     {
       "id": "games",
       "name": "Games",
-      "version": "1.10.0",
+      "version": "1.11.0",
       "description": "Plays the games tab for its rewards: the smallest bets that reach each game's next reward tier, only when the reward is worth more than the bets are expected to lose. Tracks bets, wins, rewards and the profit. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "games-1.10.0.json",
-      "sha256": "fa1173767471c98bdc60ace1e6918f98899c93fc219d51bf2ee11e11cb72784e",
-      "size": 53281
+      "file": "games-1.11.0.json",
+      "sha256": "4201f8b9fb84ff8d8069ed5755eb8c848cced8c881b329d26d20b7d1b2e4e16e",
+      "size": 55013
     },
     {
       "id": "missions",
       "name": "Missions",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "description": "Claims finished missions on every clicking account and shows mission progress.",
       "minCore": "1.0.6",
-      "file": "missions-1.2.0.json",
-      "sha256": "b882859e8ea72d8b7194aecfd67b6d953c63a585849876bafb05a61fd6ea3cb2",
-      "size": 10119
+      "file": "missions-1.3.0.json",
+      "sha256": "ce284d373c2e6845598e86216cf0abf8e404487c0f388a05f8d37ac72e56eb9f",
+      "size": 10167
     },
     {
       "id": "opener",
@@ -65,12 +65,12 @@
     {
       "id": "pass",
       "name": "Monthly pass",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "description": "Claims ready monthly pass tiers on the accounts you choose — the free track, the Pro track or both.",
       "minCore": "1.0.6",
-      "file": "pass-1.5.0.json",
-      "sha256": "14d6da98cdb330073cdd0b64a7dc2a1308b1ee886de218d8f12a4d95bb49b740",
-      "size": 10755
+      "file": "pass-1.6.0.json",
+      "sha256": "5a1a56bff7920e389d5aa564cea0370e67034d75c103231773783b2ca9bf709e",
+      "size": 10911
     },
     {
       "id": "proxies",
@@ -85,12 +85,12 @@
     {
       "id": "rewards",
       "name": "Rewards",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "description": "Claims ready /rewards tiers (rank, clicks, vault, inventory value and the rest) on the accounts you choose.",
       "minCore": "1.0.6",
-      "file": "rewards-1.4.0.json",
-      "sha256": "4f9c463c21d4deacbd118fb341327adf4779baa51c3f30bbceeb91eb7da5b659",
-      "size": 9702
+      "file": "rewards-1.5.0.json",
+      "sha256": "7aa91a2de31aa34c936f14da68c0906e08e5166cf1d82208aa5fded8197c752c",
+      "size": 9854
     },
     {
       "id": "skillmaps",
@@ -115,12 +115,12 @@
     {
       "id": "trader",
       "name": "Trader",
-      "version": "1.10.1",
+      "version": "1.11.0",
       "description": "Moves tokens and items between your accounts: one trade at a time, or by trade routes you set up (from which accounts, to which account, and what goes: tokens, terminals, skins over a price or by name). Both sides must be accounts in this app and clicking. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "trader-1.10.1.json",
-      "sha256": "037ef44d1bfb98bf7c68a307861ddbcc1e59022fa1311174e9a5a6494fc90e81",
-      "size": 127678
+      "file": "trader-1.11.0.json",
+      "sha256": "bd18d7d20674f748d276ec90da8c7d5b4c21233f32e0999f4c2601c6c803e39f",
+      "size": 129586
     }
   ]
 }
