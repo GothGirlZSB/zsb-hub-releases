@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-19T17:15:38.563Z",
+  "updatedAt": "2026-11-19T20:12:29.814Z",
   "plugins": [
     {
       "id": "armory",
@@ -15,12 +15,12 @@
     {
       "id": "converter",
       "name": "Converter",
-      "version": "1.7.2",
+      "version": "1.7.3",
       "description": "Turns what accounts earn into tokens, in steps you choose: sell clicked cases, sell cheap skins, buy capsules with the cash, open them with every drop sold to tokens, upgrade the tokens into Dragon Lores. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "converter-1.7.2.json",
-      "sha256": "60cd47d3fba37818122b53f64d43976d8839ef7673f47d58bb46b529f2274549",
-      "size": 55796
+      "file": "converter-1.7.3.json",
+      "sha256": "767f2807052ea65d4047d9fa6694608300855fda0fc8845c410df966e7d97020",
+      "size": 57644
     },
     {
       "id": "effects",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.15.1",
-      "description": "A tool for opening cases, capsules or collections on the accounts you choose: Preview shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
+      "version": "1.15.2",
+      "description": "A tool for opening cases, capsules or collections on the accounts you choose: Practice run shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
       "minCore": "1.2.14",
-      "file": "opener-1.15.1.json",
-      "sha256": "e92c70978691e4a2dac2bca6c4047ddbdbfd83c47d624ff32d1f08b62e7c918d",
-      "size": 158458
+      "file": "opener-1.15.2.json",
+      "sha256": "ecf99173a7abd9ee695fa3219e08a6c5981360482c69873d947c7d8797a13deb",
+      "size": 158506
     },
     {
       "id": "pass",
@@ -115,12 +115,12 @@
     {
       "id": "trader",
       "name": "Trader",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "description": "Moves tokens and items between your accounts: one trade at a time, or by trade routes you set up (from which accounts, to which account, and what goes: tokens, terminals, skins over a price or by name). Both sides must be accounts in this app and clicking. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "trader-1.10.0.json",
-      "sha256": "bff5fd3ff1664da7c55fff73eb2512943bd39bea601eb99b96951fa31cd484f1",
-      "size": 127554
+      "file": "trader-1.10.1.json",
+      "sha256": "037ef44d1bfb98bf7c68a307861ddbcc1e59022fa1311174e9a5a6494fc90e81",
+      "size": 127678
     }
   ]
 }
