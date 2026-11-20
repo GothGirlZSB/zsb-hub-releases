@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-20T02:41:40.853Z",
+  "updatedAt": "2026-11-20T03:35:01.861Z",
   "plugins": [
     {
       "id": "armory",
@@ -115,12 +115,12 @@
     {
       "id": "trader",
       "name": "Trader",
-      "version": "1.12.0",
+      "version": "1.13.0",
       "description": "Moves tokens and items between your accounts: one trade at a time, or by trade routes you set up (from which accounts, to which account, and what goes: tokens, terminals, skins over a price or by name). Both sides must be accounts in this app and clicking. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "trader-1.12.0.json",
-      "sha256": "ed9afba648efc60a351cd93002ec9dfae357f0d1bbdc3834f8c51bb537dbcbed",
-      "size": 141470
+      "file": "trader-1.13.0.json",
+      "sha256": "c56fd8fa1bf90eef353d57c1214b76d85d513d8494c17b9cd340f5288d79ce88",
+      "size": 167622
     }
   ]
 }
