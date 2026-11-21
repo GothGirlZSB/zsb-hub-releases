@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-21T17:16:26.484Z",
+  "updatedAt": "2026-11-21T22:26:52.099Z",
   "plugins": [
     {
       "id": "armory",
@@ -75,12 +75,12 @@
     {
       "id": "proxies",
       "name": "Proxy manager",
-      "version": "1.2.0",
-      "description": "Runs accounts through your own proxies or WireGuard configs, 20 per exit IP (the site's limit), so one install can click more than 20. Paste proxies (HTTP with or without user:pass, SOCKS5 without) or WireGuard configs, test them, and pin accounts to one if you like; the rest are spread by themselves.",
+      "version": "1.3.0",
+      "description": "Runs accounts through your own proxies or WireGuard configs, 20 per exit IP (the site's limit), so one install can click more than 20. Paste proxies (HTTP with or without user:pass, SOCKS5 without) or WireGuard configs, or use a VPS's additional IPs, test them, and pin accounts to one if you like; the rest are spread by themselves.",
       "minCore": "1.0.6",
-      "file": "proxies-1.2.0.json",
-      "sha256": "6a8076633903322e63afadec2c72c97cc6968a8691fab8069b0eb0ae5726d56b",
-      "size": 40260
+      "file": "proxies-1.3.0.json",
+      "sha256": "a31646d9ed2588f8d951d4e7dcf47b4a19c635bdbd777e44f2cfff50746a628b",
+      "size": 52581
     },
     {
       "id": "rewards",
