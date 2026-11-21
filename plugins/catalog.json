@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-20T22:49:57.531Z",
+  "updatedAt": "2026-11-21T17:16:26.484Z",
   "plugins": [
     {
       "id": "armory",
       "name": "Armory",
-      "version": "1.21.0",
+      "version": "1.21.1",
       "description": "Star farming for the Armory: one list of accounts and the games they farm XP with (battles, jackpot, upgrade, Guess the Rank, blackjack, crash, dice and plinko (by the Games plugin when it is on, otherwise by the Armory itself)). Keeps every pass going. Credits are spent by hand in the Armory shop tab. Starts off, in practice mode.",
       "minCore": "1.2.14",
-      "file": "armory-1.21.0.json",
-      "sha256": "c23330bc0cd11494b0cb522cf95d70a818d5912a8588e988700cd1e075a66ce4",
-      "size": 168353
+      "file": "armory-1.21.1.json",
+      "sha256": "2181603039a0afc1bc1630de8b9d4528bef127490cff13be619265ec8c6ed7ec",
+      "size": 168381
     },
     {
       "id": "converter",
       "name": "Converter",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "description": "Turns what accounts earn into tokens, in steps you choose: sell clicked cases, sell cheap skins, buy capsules with the cash, open them with every drop sold to tokens, upgrade the tokens into Dragon Lores. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "converter-1.8.0.json",
-      "sha256": "029494bdd70246ae3bf8a3440448363e10c119a7580fcce3ba4b76eb33d448d4",
-      "size": 59400
+      "file": "converter-1.8.1.json",
+      "sha256": "9d1e93db957b1a3ac1b202d8dc62561a12f9ef20a93e1bdcabbb8b4588e5de31",
+      "size": 59412
     },
     {
       "id": "effects",
@@ -35,12 +35,12 @@
     {
       "id": "games",
       "name": "Games",
-      "version": "1.11.0",
+      "version": "1.11.1",
       "description": "Plays the games tab for its rewards: the smallest bets that reach each game's next reward tier, only when the reward is worth more than the bets are expected to lose. Tracks bets, wins, rewards and the profit. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "games-1.11.0.json",
-      "sha256": "4201f8b9fb84ff8d8069ed5755eb8c848cced8c881b329d26d20b7d1b2e4e16e",
-      "size": 55013
+      "file": "games-1.11.1.json",
+      "sha256": "dfe789332d4d818e829a765f44475e1cbc5f048303e848540e834bde97a41990",
+      "size": 55025
     },
     {
       "id": "missions",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.15.2",
+      "version": "1.15.3",
       "description": "A tool for opening cases, capsules or collections on the accounts you choose: Practice run shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
       "minCore": "1.2.14",
-      "file": "opener-1.15.2.json",
-      "sha256": "ecf99173a7abd9ee695fa3219e08a6c5981360482c69873d947c7d8797a13deb",
-      "size": 158506
+      "file": "opener-1.15.3.json",
+      "sha256": "34974bf9cb016980ea31c2b96d6a93f67a4e3f86f27ca95968acaeb8cb28e556",
+      "size": 158486
     },
     {
       "id": "pass",
@@ -115,12 +115,12 @@
     {
       "id": "trader",
       "name": "Trader",
-      "version": "1.13.0",
+      "version": "1.13.1",
       "description": "Moves tokens and items between your accounts: one trade at a time, or by trade routes you set up (from which accounts, to which account, and what goes: tokens, terminals, skins over a price or by name). Both sides must be accounts in this app and clicking. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "trader-1.13.0.json",
-      "sha256": "c56fd8fa1bf90eef353d57c1214b76d85d513d8494c17b9cd340f5288d79ce88",
-      "size": 167622
+      "file": "trader-1.13.1.json",
+      "sha256": "2bef5c0e0b8b75fae4342cb1751b8a4035ba68539a29f578c9156c31e69e3691",
+      "size": 167578
     }
   ]
 }
