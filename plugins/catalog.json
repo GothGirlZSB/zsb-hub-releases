@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-21T22:26:52.099Z",
+  "updatedAt": "2026-11-22T03:45:24.022Z",
   "plugins": [
     {
       "id": "armory",
@@ -55,12 +55,12 @@
     {
       "id": "opener",
       "name": "Opener",
-      "version": "1.15.3",
-      "description": "A tool for opening cases, capsules or collections on the accounts you choose: Practice run shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Tracks XP and rank-ups.",
+      "version": "1.16.0",
+      "description": "A tool for opening cases, capsules or collections on the accounts you choose: Practice run shows what it would do, Open now buys a set amount (or what the spare cash covers, or uses what is in stock), opens it all and keeps or sells the drops. Keeps stats of every open: per case and per account, by day, with the best drop.",
       "minCore": "1.2.14",
-      "file": "opener-1.15.3.json",
-      "sha256": "34974bf9cb016980ea31c2b96d6a93f67a4e3f86f27ca95968acaeb8cb28e556",
-      "size": 158486
+      "file": "opener-1.16.0.json",
+      "sha256": "52b6ec4231134d6594c08ba3706194affa29f5dea4c729c9e934272b97661a2f",
+      "size": 191014
     },
     {
       "id": "pass",
@@ -105,12 +105,12 @@
     {
       "id": "skinthemes",
       "name": "Skin themes",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Styles the whole panel after a CS2 skin: its colours, fonts and small details. Turn it on in Settings > Theme and pick a look there.",
       "minCore": "1.2.14",
-      "file": "skinthemes-1.0.0.json",
-      "sha256": "4ba9672e99361a108df65a6042175a78b75a1c07c5cea8480eb0e6bac62cf0a5",
-      "size": 366970
+      "file": "skinthemes-1.1.0.json",
+      "sha256": "8213ccf3daa842ec20252f03a92c9793049ece1418ba09bcad65f8d5819098fe",
+      "size": 375070
     },
     {
       "id": "trader",
