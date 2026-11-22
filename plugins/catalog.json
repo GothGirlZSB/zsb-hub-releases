@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-22T05:33:31.224Z",
+  "updatedAt": "2026-11-22T18:58:03.701Z",
   "plugins": [
     {
       "id": "armory",
@@ -105,12 +105,12 @@
     {
       "id": "skinthemes",
       "name": "Skin themes",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Styles the whole panel after a CS2 skin: its colours, fonts and small details. Turn it on in Settings > Theme and pick a look there.",
       "minCore": "1.2.14",
-      "file": "skinthemes-1.1.0.json",
-      "sha256": "8213ccf3daa842ec20252f03a92c9793049ece1418ba09bcad65f8d5819098fe",
-      "size": 375070
+      "file": "skinthemes-1.1.1.json",
+      "sha256": "ea79ddaec67b0ba4b66d15f15478ba04bcf009a0197b121f577a42ebc3f66b1e",
+      "size": 580239
     },
     {
       "id": "trader",
