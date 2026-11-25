@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updatedAt": "2026-11-23T16:08:52.141Z",
+  "updatedAt": "2026-11-25T21:26:25.674Z",
   "plugins": [
     {
       "id": "armory",
@@ -35,22 +35,22 @@
     {
       "id": "games",
       "name": "Games",
-      "version": "1.11.1",
+      "version": "1.12.1",
       "description": "Plays the games tab for its rewards: the smallest bets that reach each game's next reward tier, only when the reward is worth more than the bets are expected to lose. Tracks bets, wins, rewards and the profit. Starts in practice mode.",
       "minCore": "1.2.14",
-      "file": "games-1.11.1.json",
-      "sha256": "dfe789332d4d818e829a765f44475e1cbc5f048303e848540e834bde97a41990",
-      "size": 55025
+      "file": "games-1.12.1.json",
+      "sha256": "c9d1e66bd38d89905045fa24eccb38ebeb57d66aa3ebd9e6eadca34b49b709ac",
+      "size": 64185
     },
     {
       "id": "missions",
       "name": "Missions",
-      "version": "1.3.1",
+      "version": "1.5.1",
       "description": "Claims finished missions on every clicking account and shows mission progress.",
       "minCore": "1.0.6",
-      "file": "missions-1.3.1.json",
-      "sha256": "c1c25ff46c92a953059a8e3405c5150b4d851a355108e8f564b187a6fd35e457",
-      "size": 11651
+      "file": "missions-1.5.1.json",
+      "sha256": "6700e1b94babb8ab884874f895467cdf87aa5d0ba47777a64a3d9fa586ab6dd1",
+      "size": 16851
     },
     {
       "id": "opener",
